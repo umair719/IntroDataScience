@@ -39,7 +39,7 @@ if False:
     print array[1]
 
 # Change False to True to see Matrix indexing and slicing in action
-if True:
+if False:
     two_D_array = np.array([[1, 2, 3], [4, 5, 6]], float)
     print two_D_array
     print ""
@@ -53,7 +53,7 @@ if True:
 Here are some arithmetic operations that you can do with Numpy arrays
 '''
 # Change False to True to see Array arithmetics in action
-if False:
+if True:
     array_1 = np.array([1, 2, 3], float)
     array_2 = np.array([5, 2, 6], float)
     print array_1 + array_2
