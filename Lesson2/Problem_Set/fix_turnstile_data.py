@@ -25,7 +25,7 @@ def fix_turnstile_data(filenames):
     Instructor Notes below for more details on the task.
 
     In addition, here is a CSV reader/writer introductory tutorial:
-    http://goo.gl/HBbvyy
+    http://goo.gl/HBbvyysv
 
     You can see a sample of the turnstile text file that's passed into this function
     and the the corresponding updated file by downloading these files from the resources:
